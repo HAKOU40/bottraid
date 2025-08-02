@@ -1,4 +1,4 @@
-imghdr-pure
+imghdr
 attrs==25.3.0
 Automat==25.4.16
 beautifulsoup4==4.11.1
