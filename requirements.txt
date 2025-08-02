@@ -1,5 +1,6 @@
 python-telegram-bot==20.6
 keep-alive
+flask
 filetype
 attrs==25.3.0
 Automat==25.4.16
