@@ -17,7 +17,7 @@ logging.getLogger().setLevel(logging.CRITICAL)
 init(autoreset=True)
 
 # 🤖 إعدادات التلجرام
-TELEGRAM_TOKEN = "7532405161:AAGAe1hNHODL3PBEqp39RaGpzYBA73YkhO4"
+TELEGRAM_TOKEN = "7999683201:AAGVKH_OvP9IjkMsN7Tl4Cnkmqt22YeTKE4"
 
 # 🔐 إعدادات التحكم الديناميكي
 ADMIN_ID = 6340633158
