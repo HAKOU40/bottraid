@@ -1,3 +1,4 @@
+quotexapi
 python-telegram-bot==20.7
 attrs==25.3.0
 Automat==25.4.16
