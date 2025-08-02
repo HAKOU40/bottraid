@@ -83,4 +83,5 @@ websockets==15.0.1
 win32-setctime==1.1.0
 wsproto==1.2.0
 zope.interface==7.2
-python-telegram-bot==20.7
+python-telegram-bot==13.15
+
