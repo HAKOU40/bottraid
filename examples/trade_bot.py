@@ -8,6 +8,9 @@ from colorama import init, Fore, Style
 from telegram import Update, ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardButton, InlineKeyboardMarkup, ReplyKeyboardRemove
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, ConversationHandler, CallbackQueryHandler
 from quotexapi.stable_api import Quotex
+from keep_alive import keep_alive
+
+keep_alive()
 
 # تعطيل التتبع الزائد
 logging.getLogger().setLevel(logging.CRITICAL)
